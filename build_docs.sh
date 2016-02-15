@@ -9,3 +9,5 @@ sphinx-build -b dirhtml -D language='es' docs/en ../build/es
 cd ..
 cp -r standard/assets build
 cp standard/schema/*.json build/en/
+mkdir -p build/en/extensions/schema/
+cp -r standard/schema/extensions/* build/en/extensions/schema/
