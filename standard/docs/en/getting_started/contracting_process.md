@@ -85,6 +85,6 @@ The ```ocid``` is case sensitive. Case should be used consistently whenever an `
 
 Version 1.0 of the OCDS schema is optimised for procurement-type contracts. 
 
-However, using extensions OCDS can also be used to model other kinds contracting process. 
+However, using extensions OCDS can also be used to model other types of contracting process. 
 
 [Contact the helpdesk](../support/index.md) for support to model your contracting processes using OCDS.
